@@ -1,6 +1,6 @@
 {
-    "name": "larabug/larabug",
-    "description": "Laravel 5.8/6.x/7.x/8.x bug notifier",
+    "name": "mateussantana/larabug",
+    "description": "Laravel 5.8/6.x/7.x/8.x bug notifier. This is a fork of https://github.com/LaraBug/LaraBug.",
     "keywords": [
         "laravel",
         "log",
